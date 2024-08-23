@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 p-6">
+  <div class="max-w-6xl mx-auto bg-white p-6 rounded-lg shadow-md">
+    <div class="mb-6">
+      <h1 class="text-2xl font-bold">Hello, Samantha Bowman</h1>
+      <p>
+        From your account dashboard, you can easily check & view your
+        <a href="#" class="text-blue-500">Recent Orders</a>,
+        manage your
+        <a href="#" class="text-blue-500">Shipping and Billing Addresses</a>
+        and edit your
+        <a href="#" class="text-blue-500">Password</a>
+        and
+        <a href="#" class="text-blue-500">Account Details</a>.
+      </p>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <div class="bg-gray-100 p-4 rounded-lg">
+        <h2 class="text-lg font-semibold mb-4">Account Info</h2>
+        <div class="flex items-center mb-4">
+          <img src="kevin.png" alt="Profile Picture" class="w-12 h-12 rounded-full mr-4">
+          <div>
+            <p class="font-bold">Kevin Gilbert</p>
+            <p>Dhaka - 1207, Bangladesh</p>
+          </div>
+        </div>
+        <p><strong>Email:</strong> kevin.gilbert@gmail.com</p>
+        <p><strong>Sec Email:</strong> kevin12345@gmail.com</p>
+        <p><strong>Phone:</strong> +1-202-555-0118</p>
+        <button class="mt-4 px-4 py-2 bg-blue-500 text-white rounded">Edit Account</button>
+      </div>
+
+      <div class="bg-gray-100 p-4 rounded-lg">
+        <h2 class="text-lg font-semibold mb-4">Billing Address</h2>
+        <p><strong>Kevin Gilbert</strong></p>
+        <p>East Tejturi Bazar, Ward No. 04, Road No. 13/K, House no. 1320/C, Flat No. 5D, Dhaka - 1200, Bangladesh</p>
+        <p><strong>Phone Number:</strong> +1-202-555-0118</p>
+        <p><strong>Email:</strong> kevin.gilbert@gmail.com</p>
+        <button class="mt-4 px-4 py-2 bg-blue-500 text-white rounded">Edit Address</button>
+      </div>
+
+      <div class="space-y-4">
+        <div class="bg-blue-100 p-4 rounded-lg text-center">
+          <p class="text-2xl font-bold">154</p>
+          <p>Total Orders</p>
+        </div>
+        <div class="bg-red-100 p-4 rounded-lg text-center">
+          <p class="text-2xl font-bold">05</p>
+          <p>Pending Orders</p>
+        </div>
+        <div class="bg-green-100 p-4 rounded-lg text-center">
+          <p class="text-2xl font-bold">149</p>
+          <p>Completed Orders</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
