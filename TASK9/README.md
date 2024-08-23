@@ -8,9 +8,10 @@
 #### npm run dev
 
 ### Reference
-###### ![WhatsApp Image 2024-07-25 at 2 49 09 PM (2)](https://github.com/user-attachments/assets/eaca0dc6-d782-4898-96e7-4f1904efef65)
+###### ![WhatsApp Image 2024-07-31 at 1 12 18 PM (1)](https://github.com/user-attachments/assets/1d7cd5c1-cd35-4539-9b2f-754a26c41a98)
 
-###### ![WhatsApp Image 2024-07-19 at 11 00 20 AM](https://github.com/user-attachments/assets/dc23c005-fe59-45d6-a19f-429b04a73d6a)
+
+###### ![WhatsApp Image 2024-07-31 at 1 12 17 PM (1)](https://github.com/user-attachments/assets/69d9e438-02b5-4e09-b9bb-6693f10d6e9c)
 
 ## Techstack
 #### Nextjs
