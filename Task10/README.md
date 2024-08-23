@@ -9,5 +9,6 @@
 #### Tailwind css
 
 ### Run the project
+#### cd my_farm_app or cd my-farm-2 ,cd my-crops app
 #### npm run dev
 
