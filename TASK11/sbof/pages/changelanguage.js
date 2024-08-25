@@ -1,6 +1,5 @@
-// pages/index.js
-import ChangeLanguageHeader from '../components/ChangeLanguageHeader';
-import LanguageGrid from '../components/LanguageGrid';
+import ChangeLanguageHeader from '../components/language/ChangeLanguageHeader';
+import LanguageGrid from '../components/language/LanguageGrid';
 import Footer from '../components/Footer';
 
 export default function Home() {

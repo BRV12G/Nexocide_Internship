@@ -1,15 +1,4 @@
- // components/Footer.js
-// export default function Footer() {
-//     return (
-//       <div className="fixed bottom-0 w-full bg-white shadow-md p-4 flex justify-between">
-//         <button>🏠</button>
-//         <button>🛒</button>
-//         <button className="bg-green-500 text-white p-2 rounded-full">📷</button>
-//         <button>🔔</button>
-//         <button>📋</button>
-//       </div>
-//     );
-//   }
+
   
 import { FaHome, FaCamera, FaStore, FaRegLightbulb, FaFile } from "react-icons/fa";
 
